@@ -10,7 +10,7 @@ The project allows the user a low-latency interractive experience by maintaining
 Run the "make mexBuild" target to build for your architecture.
 Run the "FractalExplorer.m" script. Note, by default, use color space Parula
 
-When prompted, Select to initially plot either the Mandelbrot Set or  a Julia Set
+When prompted, type "Mandelbrot" or "Julia" to begin.
 
 If Julia:
     Enter Real and Complex value, or Enter for Default
