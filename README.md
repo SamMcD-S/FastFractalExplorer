@@ -1,5 +1,5 @@
-# Fast Fractal Plotter
-##  Sam McDiarmid-Sterling, CU Boulder
+# Fast Fractal Explorer
+##  Sam McDiarmid-Sterling
 Welcome!
 
 *The "Fast Fractal Explorer" is a interactive user interface, designed to enable a easy and playful investigation of the Mandelbrot Fractal and its associated Julia Sets*
