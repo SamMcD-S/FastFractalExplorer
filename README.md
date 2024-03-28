@@ -17,7 +17,7 @@ If Julia:
 
 Once the first plot appears,
 * press **'z'**, select a lower left and upper right corner of a new square region
-* press **'r'**, enter a new resolution. Note, the default is 400x400. The program hasn't been tested above 1500x1500
+* press **'r'**, enter a new resolution. Note, the default is 400x400. The program has been tested to 1500x1500
 * press **'t'**, to go to the next stop on the tour of famous fractals
 * press **'v'**, to switch between Mandelbrot and Julia Set, either revealing the location of the Julia set, or allowing selection of a new complex value in the Mandelbrot window
 * press **'u'**, to undo the last view-changing command ('v', or 'z')
