@@ -51,4 +51,4 @@ The Makefile has the following targets:
 ### Performance Adjustments
 In order to change the default resolution (and program mode), the parameters in FastFractal.m may be modified in the following manner:
 
-resolution = <n> -- by default, maintain an nxn size image
+resolution = \<n\> -- by default, maintain an nxn size image
